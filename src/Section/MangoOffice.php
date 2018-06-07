@@ -1,6 +1,6 @@
 <?php
-namespace Sharoff\Mango\Api;
+namespace Seand1796\Mango\Api;
 
-Class MangoOffice extends \Sharoff\Mango\Api\Base\MangoOffice {
+Class MangoOffice extends \Seand1796\Mango\Api\Base\MangoOffice {
 
 }

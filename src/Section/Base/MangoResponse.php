@@ -1,6 +1,6 @@
 <?php
 
-namespace Sharoff\Mango\Api\Base;
+namespace Seand1796\Mango\Api\Base;
 
 Class MangoResponse {
 

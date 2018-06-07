@@ -1,6 +1,6 @@
 <?php
-namespace Sharoff\Mango\Api;
+namespace Seand1796\Mango\Api;
 
-Class MangoOfficeError extends \Sharoff\Mango\Api\Base\MangoOfficeError {
+Class MangoOfficeError extends \Seand1796\Mango\Api\Base\MangoOfficeError {
 
 }

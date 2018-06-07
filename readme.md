@@ -2,7 +2,7 @@
 
 ##Установка
 ~~~
-composer require sharoff/mango-office-api
+composer require Seand1796/mango-office-api
 ~~~
 
 ##Инициализация
@@ -12,7 +12,7 @@ composer require sharoff/mango-office-api
 // Подключаем автолоад
 require __DIR__ . '/../vendor/autoload.php';
 // Просто для короткой записи
-use Sharoff\Mango\Api\MangoHelper;
+use Seand1796\Mango\Api\MangoHelper;
 // Задание API ключа и ключа шифрования
 MangoHelper::setApiKey('*********************************')
            ->setApiSalt('*********************************');

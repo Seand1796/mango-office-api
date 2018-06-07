@@ -1,8 +1,8 @@
 <?php
-namespace Sharoff\Mango\Api\Base;
+namespace Seand1796\Mango\Api\Base;
 
 use Carbon\Carbon;
-use Sharoff\Mango\Api\MangoOfficeError;
+use Seand1796\Mango\Api\MangoOfficeError;
 use Symfony\Component\HttpFoundation\Request;
 
 /**

@@ -1,7 +1,7 @@
 <?php
-namespace Sharoff\Mango\Api\Base;
+namespace Seand1796\Mango\Api\Base;
 
-use Sharoff\Mango\Api\MangoOffice;
+use Seand1796\Mango\Api\MangoOffice;
 
 /**
  *

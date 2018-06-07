@@ -3,7 +3,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Sharoff\\Mango\\Api\\": "src/Section/"
+      "Seand1796\\Mango\\Api\\": "src/Section/"
     }
   },
   "description": "Библиотека для работы с API mango-office",
@@ -17,9 +17,8 @@
     }
   ],
   "require": {
-    "php": ">=5.5.9",
-    "symfony/http-foundation": "^4.1.0",
-    "nesbot/carbon": "^1.21"
+    "php": "^7.1.3",
+    "laravel/framework": "5.6.*"
   },
   "minimum-stability": "dev"
 }
